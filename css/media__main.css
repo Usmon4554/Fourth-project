@@ -1,0 +1,277 @@
+@media (max-width: 1199.98px) {
+  .container__1__help {
+    padding: 100px;
+    padding-top: 120px;
+  }
+
+  .mini__container2 {
+    width: 950px;
+  }
+
+  .mini__container3 {
+    width: 950px;
+  }
+
+  .container__4 {
+    padding: 80px;
+  }
+
+  .container__5 {
+    padding: 80px;
+  }
+
+  .container__6 {
+    flex-direction: column-reverse;
+  }
+
+  .right {
+    margin-right: auto;
+    margin-left: auto;
+    width: 600px;
+  }
+
+  .left {
+    width: 100%;
+  }
+
+}
+
+@media (max-width: 991.98px) {
+
+  .container__1__help {
+    padding: 80px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .title {
+    font-size: 55px;
+  }
+
+  .description {
+    font-size: 23px;
+  }
+
+  .mini__container2 {
+    width: 720px;
+  }
+
+  .info {
+    width: 100%;
+  }
+
+  .information {
+    text-align: center;
+  }
+
+  .blocks {
+    flex-direction: column;
+  }
+
+  .mini__container3 {
+    width: 720px;
+  }
+
+  .tablerow {
+    flex-direction: column;
+  }
+
+  .table {
+    width: 100%;
+  }
+
+  .prices {
+    flex-direction: column;
+  }
+
+  .price__block {
+    width: 100%;
+  }
+
+  .contact {
+    text-align: center;
+  }
+
+  .right {
+    width: 500px;
+    height: 600px;
+  }
+
+  .end {
+    text-align: center;
+  }
+}
+
+@media (max-width: 767.98px) {
+
+  .modal__content{
+    flex-direction: column;
+  }
+
+  .modal__container{
+    width: 500px;
+  }
+
+  button {
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .title {
+    font-size: 40px;
+  }
+
+  .description {
+    font-size: 21px;
+  }
+
+  .mini__container2 {
+    width: 550px;
+  }
+
+  .mini__container3 {
+    width: 550px;
+  }
+
+  .example {
+    font-size: 45px;
+    text-align: center;
+  }
+
+  .container__4 {
+    width: 100%;
+    padding: 20px;
+  }
+
+  .payme {
+    font-size: 40px;
+  }
+
+  .container__5 {
+    padding: 20px;
+  }
+
+  .contact {
+    font-size: 35px;
+  }
+
+  .text__description {
+    font-size: 18px;
+  }
+
+  .txt {
+    font-size: 22px;
+  }
+
+  .tekst {
+    font-size: 18px;
+  }
+
+  .payme {
+    font-size: 35px;
+  }
+
+  .paragraph {
+    font-size: 22px;
+  }
+
+  .example {
+    font-size: 35px;
+  }
+
+  .left {
+    padding: 20px;
+  }
+
+  .end {
+    font-size: 35px;
+    text-align: center;
+  }
+
+  .start {
+    font-size: 18px;
+  }
+
+  .join {
+    height: 55px;
+    width: 300px;
+  }
+
+}
+
+@media (max-width: 575.98px) {
+
+  .modal__container{
+    padding-bottom: 20px;
+    width: 90%;
+  }
+  
+  .container__1{
+    min-height: 100vh;    
+  }
+  
+  .payme{
+    line-height: 1.5;    
+  }
+  .container__1__help {
+    padding: 50px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+  .hide-mob{
+    display: none;
+  }
+
+  .hide-pc{
+    display: block;
+    font-size: 20px;
+    padding: 50px 30px;
+    line-height: 1.6;
+  }
+
+
+  .title {
+    font-size: 30px;
+    font-weight: 600;
+    /* text-align: center; */
+    margin-top: -20px;
+  }
+
+  .description {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .mini__container2 {
+    width: 100%;
+  }
+
+  .information {
+    font-size: 30px;
+  }
+
+  .mini__container3 {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .right {
+    display: none;
+    width: 450px;
+    height: 550px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .join{
+    width: 95%;
+    max-width: 250px;
+  }
+
+  .container__2{
+    padding-top: 0;
+  }
+}
